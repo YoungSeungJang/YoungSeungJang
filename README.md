@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
   
 <!--
 **YoungSeungJang/YoungSeungJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
