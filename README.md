@@ -11,6 +11,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSeungJang&show_icons=true&theme=dark)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungSeungJang&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
 <!--
 **YoungSeungJang/YoungSeungJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
