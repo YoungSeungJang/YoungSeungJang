@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20YoungSeung&fontSize=90)
 <div align=center>안녕하세요 프론트엔드 공부중인 장영승입니다 :)</div>
 <br/>
 
